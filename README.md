@@ -32,7 +32,7 @@ The pipeline leverages a 3-tier Medallion Architecture (Bronze, Silver, Gold) to
    https://public.tableau.com/views/FinancialPerformanceOverview_17853066064960/CustomerSalesProductionStrategyOverview
 
 **Author**
-- Clara Perju — Financial Analyst transitioning into Data Analytics & BI
-- Specialisation: SQL, Python, Business Intelligence (CFI certification candidate)
+- Clara Perju — Financial Analyst
+- Specialisation: SQL, Python, Business Intelligence (CFI certification)
 - Background: BSc in Finance & Banking | MSc in Accounting, Control & Audit
 - GitHub: https://github.com/ClaraPerju
