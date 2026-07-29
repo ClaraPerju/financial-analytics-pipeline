@@ -27,7 +27,7 @@ The pipeline leverages a 3-tier Medallion Architecture (Bronze, Silver, Gold) to
 
 **Project Links & Deliverables**
 
-- Documentation: comming soon
+- Documentation: https://github.com/ClaraPerju/financial-analytics-pipeline/blob/main/Financial%20Analytics%20Pipeline.pdf
 - Interactive Dashboards: Tableau Public BI Suite
    https://public.tableau.com/views/FinancialPerformanceOverview_17853066064960/CustomerSalesProductionStrategyOverview
 
